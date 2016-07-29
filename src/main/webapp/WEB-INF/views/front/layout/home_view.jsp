@@ -1,6 +1,7 @@
 <%@ include file="../include/header_view.jsp" %>
 <%@ include file="../include/menu_view.jsp" %>
 <%@ include file="../include/slide_view.jsp" %>
+<h1>ព្រះរាជា</h1>
       <div class="row" id="nopadding">
       <!-- start Card-->
        <div class="col-lg-6 nopadding">
