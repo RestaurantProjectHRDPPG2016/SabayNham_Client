@@ -1,0 +1,301 @@
+//Youra JS
+
+$(document).ready(function(){
+    $("#mycategory").click(function(){
+    	$("#myCarousel").slideUp(600);
+        $("#category").slideToggle();
+        $("#sub15").hide();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    	$("#sub9").hide();
+    	$("#sub10").hide();
+    	$("#sub11").hide();
+    	$("#sub12").hide();
+    	$("#sub13").hide();
+    	$("#sub14").hide();
+
+    });
+
+    $("#cat1").click(function(){
+    	$("#subcategory").slideToggle();
+    	$("#sub1").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    });
+     $("#cat2").click(function(){
+    	$("#subcategory").show();
+    	$("#sub2").show();
+    	$("#category").hide();
+    	$("#myCarousel").hide();
+    	$("#sub1").hide();
+    });
+      $("#cat3").click(function(){
+    	$("#subcategory").show();
+    	$("#sub3").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    });
+       $("#cat4").click(function(){
+    	$("#subcategory").show();
+    	$("#sub4").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	
+    });
+        $("#cat5").click(function(){
+    	$("#subcategory").show();
+    	$("#sub5").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    });
+         $("#cat6").click(function(){
+    	$("#subcategory").show();
+    	$("#sub6").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    });
+          $("#cat7").click(function(){
+    	$("#subcategory").show();
+    	$("#sub7").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    });
+           $("#cat8").click(function(){
+    	$("#subcategory").show();
+    	$("#sub8").show();
+    	$("#category").hide();
+    	$("myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    });
+            $("#cat9").click(function(){
+    	$("#subcategory").show();
+    	$("#sub9").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    });
+             $("#cat10").click(function(){
+    	$("#subcategory").show();
+    	$("#sub10").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    	$("#sub9").hide();
+    });
+              $("#cat11").click(function(){
+    	$("#subcategory").show();
+    	$("#sub11").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    	$("#sub9").hide();
+    	$("#sub10").hide();
+    });
+               $("#cat12").click(function(){
+    	$("#subcategory").show();
+    	$("#sub12").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    	$("#sub9").hide();
+    	$("#sub10").hide();
+    	$("#sub11").hide();
+    });
+                $("#cat13").click(function(){
+    	$("#subcategory").show();
+    	$("#sub13").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    	$("#sub9").hide();
+    	$("#sub10").hide();
+    	$("#sub11").hide();
+    	$("#sub12").hide();
+    });
+                 $("#cat14").click(function(){
+    	$("#subcategory").show();
+    	$("#sub14").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    	$("#sub9").hide();
+    	$("#sub10").hide();
+    	$("#sub11").hide();
+    	$("#sub12").hide();
+    	$("#sub13").hide();
+    });
+                  $("#cat15").click(function(){
+    	$("#subcategory").show();
+    	$("#sub15").show();
+    	$("#category").hide();
+    	$("#myCarousel").slideUp();
+    	$("#sub1").hide();
+    	$("#sub2").hide();
+    	$("#sub3").hide();
+    	$("#sub4").hide();
+    	$("#sub5").hide();
+    	$("#sub6").hide();
+    	$("#sub7").hide();
+    	$("#sub8").hide();
+    	$("#sub9").hide();
+    	$("#sub10").hide();
+    	$("#sub11").hide();
+    	$("#sub12").hide();
+    	$("#sub13").hide();
+    	$("#sub14").hide();
+    });
+
+$(".bg-category").click(function(){
+	//alert('abc');
+
+	$("#col-3").css({"height":"2000px"});
+});
+/*admin*/
+$("#member").click(function(){
+	$("#mymember").show();
+	$("#container").hide();
+});
+$("#admin").click(function(){
+	$("#myadmin").fadeToggle();
+	$("#myrestaurant-owner").hide();
+    $("#mynormoruser").hide();
+    $("#myvisitor").hide();
+});
+$("#restaurant-owner").click(function(){
+	$("#myrestaurant-owner").fadeToggle();
+	$("#myadmin").hide();
+     $("#mynormoruser").hide(); 
+     $("#myvisitor").hide();
+});
+$("#user").click(function () {
+    $("#mynormoruser").show();
+    $("#myadmin").hide();
+    $("#myrestaurant-owner").hide();
+    $("#myvisitor").hide();
+});
+$("#visitor").click(function(){
+    $("#myvisitor").show();
+    $("#myadmin").hide();
+    $("#myrestaurant-owner").hide();
+    $("#mynormoruser").hide();
+});
+
+					$(document).ready(function(){
+						$("#next").click(function(){
+							$("#col7").hide();
+							$("#hello").fadeToggle();
+						})
+					})
+				
+});
+$("#burgger").click(function(){
+    $("#mypizza").hide();
+    $("#mybugger").show()
+
+    $("#apizza").removeClass("active");
+    $("#aburger").addClass("active");
+})
+$("#pizza").click(function(){
+    $("#mypizza").show();
+    $("#mybugger").hide();
+    $("#aburger").removeClass("active");
+    $("#apizza").addClass("active");
+})
+$(document).ready(function(){
+    $("#myorder").click(function(){
+        $("#orderform").show();
+    });
+});
+//my restaurnt category admin
+$("#restaurant").click(function(){
+    $("#myrestaurant").show();
+})
+// scroll top
+       // If page is scrolled more than 50px
+        $('#mycategory').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 1000);
+
+});
+$("#confirm").click(function(){
+    $("#confirm").hide();
+})
+
+
+
+//END YOURA JS
