@@ -3,6 +3,7 @@
 <%@ include file="../include/slide_view.jsp" %>
 
 		 <!--start Catetory-->
+<div class="col-md-9">
                <div class="margintop-10"></div>
           <div class="row">
              <div class="col-md-6">
@@ -59,9 +60,10 @@ aliquip ex ea commodo consequat.</p>
       </div>
       </div>
         </div>
+
             <!--Ent category-->
 
-<div class="col-md-9">
+
       <div class="row" id="nopadding">
       <!-- start Card-->
        <div class="col-lg-6 col-md-6 nopadding">
