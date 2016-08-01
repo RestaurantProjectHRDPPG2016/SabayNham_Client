@@ -11,6 +11,10 @@ public class MainController {
 	}
 	@RequestMapping(value="/about")
 	public String about(){
-		return "front/layout/about_view";
+	return "front/layout/about_view";
+	}
+	@RequestMapping(value="/about")
+	public String abouts(){
+	return "front/layout/about_view";
 	}
 }
