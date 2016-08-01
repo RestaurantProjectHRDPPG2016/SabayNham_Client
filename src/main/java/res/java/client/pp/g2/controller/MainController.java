@@ -9,8 +9,8 @@ public class MainController {
 	public String home(){
 		return "front/layout/home_view";
 	}
-		@RequestMapping(value="/about")
-		public String about(){
-			return "front/layout/about_view";
-		}
+	@RequestMapping(value="/about")
+	public String about(){
+		return "front/layout/about_view";
+	}
 }
