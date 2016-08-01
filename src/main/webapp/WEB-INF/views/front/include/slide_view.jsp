@@ -13,7 +13,7 @@
             <div class="carousel-inner" role="listbox">
 
               <div class="item">
-                <img src="resources/img/slide/52.jpg" alt="Chania">
+                <img src="resources/front/img/slide/52.jpg" alt="Chania">
                 <div class="carousel-caption">
                   <h3>Chania</h3>
                   <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
@@ -21,7 +21,7 @@
               </div>
 
               <div class="item">
-                <img src="resources/img/slide/53.jpg" alt="Chania">
+                <img src="resources/front/img/slide/53.jpg" alt="Chania">
                 <div class="carousel-caption">
                   <h3>Chania</h3>
                   <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
@@ -29,7 +29,7 @@
               </div>
             
               <div class="item active">
-                <img src="resources/img/slide/54.jpg" alt="Flower">
+                <img src="resources/front/img/slide/54.jpg" alt="Flower">
                 <div class="carousel-caption">
                   <h3>Flowers</h3>
                   <p>Beatiful flowers in Kolymbari, Crete.</p>
@@ -37,7 +37,7 @@
               </div>
 
               <div class="item">
-                <img src="resources/img/slide/54.jpg" alt="Flower">
+                <img src="resources/front/img/slide/54.jpg" alt="Flower">
                 <div class="carousel-caption">
                   <h3>Flowers</h3>
                   <p>Beatiful flowers in Kolymbari, Crete.</p>
