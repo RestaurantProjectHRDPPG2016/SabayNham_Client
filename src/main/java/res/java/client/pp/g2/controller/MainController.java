@@ -2,7 +2,7 @@ package res.java.client.pp.g2.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-
+//jjjj
 @Controller
 public class MainController {
 	@RequestMapping(value="/")
@@ -13,7 +13,6 @@ public class MainController {
 	public String about(){
 		System.out.println("Hello World");
 		return "front/layout/about_view";
-		
 	}
 	
 }
