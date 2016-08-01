@@ -1,7 +1,7 @@
 <%@ include file="../include/header_view.jsp" %>
 <%@ include file="../include/menu_view.jsp" %>
 <%@ include file="../include/slide_view.jsp" %>
-<!-- MySEssion -->
+<!-- MySEssionqqqq -->
 		 <!--start Catetory-->
 <div class="col-md-9">
                <div class="margintop-10"></div>
